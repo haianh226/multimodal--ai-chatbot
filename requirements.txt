@@ -1,0 +1,7 @@
+groq
+requests
+python-dotenv
+Pillow
+librosa
+numpy
+gradio
